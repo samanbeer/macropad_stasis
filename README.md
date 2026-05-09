@@ -2,10 +2,10 @@
 
 ## Design
 
-### 📷 Schematic
+### Schematic
 ![Schematic](schematic.png)
 
-### 📷 PCB Layout
+### PCB Layout
 ![PCB](pcb.png)
 
 ---
