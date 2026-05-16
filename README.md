@@ -1,6 +1,5 @@
 # My MacroPad Project
 
-This repository contains the design files for a custom macro pad based on the Seeed Studio XIAO RP2040.
 
 ## 📁 Project Structure
 
@@ -40,6 +39,10 @@ This repository contains the design files for a custom macro pad based on the Se
 #### PCB without rendering
 ![Non-rendered PCB](not_rendered_pcb.png)
 
+#### Rendered Housing for PCB
+![Rendered CAD](CAD/blender/rendered_CAD.png)
 
+#### Housing for PCB (screenshot from fusion360)
+![Rendered CAD](CAD/blender/not_rendered_CAD.png)
 
 Project Link: https://stasis.hackclub.com/dashboard/projects/cmosrdxum001301mxc1tzjn15
