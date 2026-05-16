@@ -1,0 +1,11 @@
+Řádek č.,Objednací kód,Vyhovuje směrnici RoHS?,Č. dílu,Poznámky,Množství,Číslo dílu výrobce,Název výrobce,Výrobce / Popis,Dostupnost,Jednotková cena (Kč),Cena položky na řádku (Kč),Cena po slevě (Kč)
+1,3119387,RoHS: YES / FTALÁTY: YES,,,1.0,"SN74AHCT125N",TEXAS INSTRUMENTS,"TEXAS INSTRUMENTS  Buffer, 74AHCT125, 4,5 V až 5,5 V, DIP-14",631,18.9210,18.92,,
+2,4060348,RoHS: YES / FTALÁTY: YES,,,1.0,"102010428",SEEED STUDIO,"SEEED STUDIO  SBC, XIAO RP2040, ARM Cortex M0+, 264kB RAM, 2MB Flash, Bluetooth, USB-C",90,98.9820,98.98,,
+3,4245056,RoHS: YES / FTALÁTY: YES,,,10.0,"1N4148",MULTICOMP PRO,"MULTICOMP PRO  Malá Signálová Dioda, Samostatná, 100 V, 150 mA, 1 V, 4 ns, 500 mA",15,4.4510,44.51,,
+4,1828901,RoHS: YES / FTALÁTY: YES,,,10.0,"GRM188R71E474KA12D",MURATA,"MURATA  SMD Vícevrstvý Keramický Kondenzátor, 0.47 µF, 25 V, 0603 [1608 Metrické], ± 10%, X7R",14199,1.2310,12.31,,
+
+,,,,,,,Dílčí součet,Kč174.72
+,,,,,,,Celkový součet zboží,Kč174.72
+,,,,,,,Dodání,Kč175.00
+,,,,,,,DPH,Kč73.44
+,,,,,,,Celkem,Kč423.16
