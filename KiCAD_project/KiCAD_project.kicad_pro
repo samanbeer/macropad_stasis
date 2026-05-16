@@ -612,11 +612,11 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "output/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../3d_PCB.step",
       "svg": "",
       "vrml": ""
     },
