@@ -59,12 +59,12 @@ Project Link: https://stasis.hackclub.com/dashboard/projects/cmosrdxum001301mxc1
 ## Bill of Materials
 
 | Component | Purpose | Qty | Total | Distributor |
-|---|---|---|---|---|---|
-| PCB | Board to solder all components on | 1 | ~$1.40 | [JLCPCB](https://cart.jlcpcb.com/quote) |
-| Cherry MX Switches | Key switches | 10 | ~$3.00 | [AliExpress](https://www.aliexpress.com/item/1005004341695529.html) |
-| Capacitor 0.47 µF 0603 | prevents LED flicker on voltage spikes | 10 | ~$0.50 | [Farnell](https://cz.farnell.com/murata/grm188r71e474ka12d/cap-0-47-f-25v-10-x7r-0603/dp/1828901) |
-| Diode 1N4148 | Key matrix diodes for preventing ghosting | 10 | ~$2.15 | [Farnell](https://cz.farnell.com/multicomp-pro/1n4148/small-signal-diode-single-do-204ah/dp/4245056) |
-| SN74AHCT125N | Voltage level-shifter for RGB LED | 1 | ~$0.90 | [Farnell](https://cz.farnell.com/texas-instruments/sn74ahct125n/logic-bus-buffer-tri-st-qd-14dip/dp/3119387) |
-| SK6812 MINI-E | RGB LED | 1 | ~$2.40 | [AliExpress](https://www.aliexpress.com/item/1005008308801366.html) |
-| Seeed Studio XIAO RP2040 | Main microcontroller | 1 | ~$4.80 | [Farnell](https://cz.farnell.com/seeed-studio/102010428/xiao-board-arm-arduino-board/dp/4060348) |
+| :--- | :--- | :---: | :---: | :--- |
+| PCB | Board to solder all components on | 1 | ~$1.40 | JLCPCB |
+| Cherry MX Switches | Key switches | 10 | ~$3.00 | AliExpress |
+| Capacitor 0.47 µF 0603 | Prevents LED flicker on voltage spikes | 10 | ~$0.50 | Farnell |
+| Diode 1N4148 | Key matrix diodes for preventing ghosting | 10 | ~$2.15 | Farnell |
+| SN74AHCT125N | Voltage level-shifter for RGB LED | 1 | ~$0.90 | Farnell |
+| SK6812 MINI-E | RGB LED | 1 | ~$2.40 | AliExpress |
+| Seeed Studio XIAO RP2040 | Main microcontroller | 1 | ~$4.80 | Farnell |
 
