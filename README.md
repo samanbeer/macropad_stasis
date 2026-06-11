@@ -10,7 +10,7 @@ Also I learned a lot from MarkDown syntax.
 I will use this for switching apps, custom scripts in some apps like VsCode for pushing new code to github etc...
 The routing was pretty easy, just time consuming but I really enjoed making traces.
 
-## 📁 Project Structure
+## Project Structure
 
 - **[KiCAD_project/](KiCAD_project/)** 
   - `KiCAD_project.kicad_pcb` 
