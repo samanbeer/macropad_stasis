@@ -1,5 +1,14 @@
 # My MacroPad Project
 
+This is custom 3×3 macropad PCB built with KiCad. It runs with Seeed Studio XIAO RP2040 microcontroller, uses Cherry MX switches and t has RGB lights with SK6812 MINI-E LEDs.
+
+## About This Project
+
+I have done PCB design before, but I wanted to do something more hard like adding MCU, RGB LEDs, and a matrix connection. 
+I learned key matrix wiring with diodes, level-shifting logic with the 74AHCT125 processor, PCB routing around an MCU and KiCad in general.
+Also I learned a lot from MarkDown syntax.
+I will use this for switching apps, custom scripts in some apps like VsCode for pushing new code to github etc...
+
 
 ## 📁 Project Structure
 
@@ -46,3 +55,16 @@
 ![Rendered CAD](CAD/blender/not_rendered_CAD.png)
 
 Project Link: https://stasis.hackclub.com/dashboard/projects/cmosrdxum001301mxc1tzjn15
+
+## Bill of Materials
+
+| Component | Purpose | Qty | Unit Cost (USD) | Total | Distributor |
+|---|---|---|---|---|---|
+| PCB | Board to solder all components on | 1 | — | ~$1.40 | [JLCPCB](https://cart.jlcpcb.com/quote) |
+| Cherry MX Switches | Key switches | 10 | — | ~$3.00 | [AliExpress](https://www.aliexpress.com/item/1005004341695529.html) |
+| Capacitor 0.47 µF 0603 | Decoupling — prevents LED flicker on voltage spikes | 10 | — | ~$0.50 | [Farnell](https://cz.farnell.com/murata/grm188r71e474ka12d/cap-0-47-f-25v-10-x7r-0603/dp/1828901) |
+| Diode 1N4148 | Key matrix diodes — prevent ghosting | 10 | — | ~$2.15 | [Farnell](https://cz.farnell.com/multicomp-pro/1n4148/small-signal-diode-single-do-204ah/dp/4245056) |
+| SN74AHCT125N | Voltage level-shifter for RGB LED data line | 1 | — | ~$0.90 | [Farnell](https://cz.farnell.com/texas-instruments/sn74ahct125n/logic-bus-buffer-tri-st-qd-14dip/dp/3119387) |
+| SK6812 MINI-E | Addressable RGB LED | 1 | — | ~$2.40 | [AliExpress](https://www.aliexpress.com/item/1005008308801366.html) |
+| Seeed Studio XIAO RP2040 | Main microcontroller | 1 | — | ~$4.80 | [Farnell](https://cz.farnell.com/seeed-studio/102010428/xiao-board-arm-arduino-board/dp/4060348) |
+
