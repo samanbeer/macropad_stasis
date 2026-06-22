@@ -54,6 +54,12 @@ The routing was pretty easy, just time consuming but I really enjoed making trac
 #### Housing for PCB (screenshot from fusion360)
 ![Rendered CAD](CAD/blender/not_rendered_CAD.png)
 
+### Real Photos
+
+![IRL Photo 1](irl_photo1.jpg)
+
+![IRL Photo 2](IRLphoto_2.jpg)
+
 Project Link: https://stasis.hackclub.com/dashboard/projects/cmosrdxum001301mxc1tzjn15
 
 ## Bill of Materials
